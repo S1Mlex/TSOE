@@ -1,8 +1,3 @@
-# TSOE
-MPP Bot script
-
-
-
 
 // ==UserScript==
 // @name         .
